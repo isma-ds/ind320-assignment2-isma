@@ -1,3 +1,5 @@
 streamlit>=1.37
 pandas>=2.0
 matplotlib>=3.7
+pymongo
+numpy
