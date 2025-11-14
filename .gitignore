@@ -1,0 +1,7 @@
+# Do NOT push secrets to GitHub
+.streamlit/
+
+# Optional recommended ignores
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
