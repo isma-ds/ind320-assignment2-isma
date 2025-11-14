@@ -7,6 +7,7 @@ import pandas as pd
 import streamlit as st
 from pymongo import MongoClient
 
+
 st.set_page_config(page_title="Production", page_icon="⚡")
 
 st.title("Power production – 2021")

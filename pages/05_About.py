@@ -6,7 +6,7 @@ st.sidebar.title("Navigation")
 st.sidebar.page_link("app.py", label="🏠 Home")
 st.sidebar.page_link("pages/02_Data_Table.py", label="📊 Data Table")
 st.sidebar.page_link("pages/03_Plots.py", label="📈 Plots")
-st.sidebar.page_link("pages/04_About.py", label="ℹ️ About")
+st.sidebar.page_link("pages/05_About.py", label="ℹ️ About")
 
 st.title("About This Project")
 
